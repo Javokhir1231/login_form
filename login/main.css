@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: blueviolet;
+}
+input,button{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 18px;
+    background:#f2f2f2;
+    border: unset;
+    margin-bottom: 18px;
+}
+button{
+    background-color: rgb(0, 217, 255);
+    color: white;
+    text-transform: uppercase;
+    cursor:pointer;
+}
+.white-block{
+    background-color:antiquewhite;
+    width: 290px;
+    height: 214px;
+    margin: 180px auto;
+    padding: 50px;
+}
+p{
+    color: #d2d3d3;
+    font-size: 14px;
+    text-align: center;
+}
+p a{
+    color: cornflowerblue;
+    text-decoration:none ;
+}
