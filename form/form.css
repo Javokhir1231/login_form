@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(240, 240, 233);
+}
+
+input,button{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+    padding: 18px;
+    border: unset;
+    background-color: rgb(190, 189, 191);
+}
+
+button{
+    background-color: chartreuse;
+    color: aliceblue;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+p{
+    color: antiquewhite;
+    font-size: 15px;
+    text-align: center;
+
+}
+p a{
+    text-decoration:none;
+}
+.white-block{
+    background-color: rgb(228, 52, 52);
+    width: 290px;
+    height: 214px;
+    margin: 180px auto;
+    padding: 50px;
+}
